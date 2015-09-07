@@ -6,7 +6,7 @@ Take note of this file:
 
 https://github.com/GeertjanWielenga/HelloJena/blob/master/application/src/main/resources/my.conf
 
-Here cp:a is used to set xml-apis.jar on the classpath.
+In the above, cp:a is used to set xml-apis.jar on the classpath.
 
 And here is the Jena code used in this example:
 
